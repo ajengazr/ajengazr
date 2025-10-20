@@ -1,9 +1,6 @@
 <div align="center">
   
   <!-- GIF Coding Animation -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
-  
-  <br/><br/>
   
   <!-- Header -->
   <h1>
@@ -22,6 +19,7 @@
     
   
   <br/><br/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
   
 </div>
 
