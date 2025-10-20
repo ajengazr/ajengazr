@@ -1,15 +1,25 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
-<div align="center">
   
-  # Hi 👋, I'm Ajeng Azzahra Maharani
-  ## A Passionate Junior Back-End Web Developer
+  <!-- GIF Coding Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Back+End+Developer+%26+Java+Enthusiast;Currently+learning+React+JS+and+Agile;Open+for+FinTech+Collaborations;Building+Efficient+%26+Secure+Solutions" alt="Typing SVG" />
+  <br/><br/>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+  <!-- Header -->
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Hi, I'm Ajeng Azzahra Maharani
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  </h1>
+  
+  <h3>A Passionate Fullstack Web Developer 💻</h3>
+  
+  <br/>
+  
+  <!-- Typing Animation - Centered -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Back+End+Developer+%26+Java+Enthusiast;Currently+learning+React+JS+and+Agile;Open+for+FinTech+Collaborations;Building+Efficient+%26+Secure+Solutions;Let's+Create+Something+Amazing!" alt="Typing SVG" />
+  
+  <br/><br/>
   
 </div>
 
@@ -98,11 +108,15 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🎮 Catch the Pokemon - Contribution Game:
 
 <div align="center">
   
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=ajengazr&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  <img src="https://raw.githubusercontent.com/ajengazr/ajengazr/output/github-contribution-grid-snake-dark.svg" alt="Pokemon catching contributions" />
+  
+  <br/>
+  
+  <img src="https://raw.githubusercontent.com/ajengazr/ajengazr/output/ocean.gif" alt="Pokemon animation" />
   
 </div>
 
@@ -110,11 +124,11 @@
 
 ---
 
-## 🐍 Contribution Snake Game:
+## 🏆 GitHub Trophies:
 
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/ajengazr/ajengazr/output/github-contribution-grid-snake.svg)
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=ajengazr&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
   
 </div>
 
