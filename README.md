@@ -1,7 +1,5 @@
 <div align="center">
   
-  <!-- GIF Coding Animation -->
-  
   <!-- Header -->
   <h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
@@ -9,17 +7,14 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
   
-  <h3>A Passionate Fullstack Web Developer 💻</h3>
+  <h3>A Passionate Junior Fullstack Web Developer 💻</h3>
   
   <br/>
   
   <!-- Typing Animation - Centered -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Back+End+Developer+%26+Java+Enthusiast;Currently+learning+React+JS+and+Agile;Open+for+FinTech+Collaborations;Building+Efficient+%26+Secure+Solutions;Let's+Create+Something+Amazing!" alt="Typing SVG" />
-
-    
-  
-  <br/><br/>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+  <br/>
+ 
   
 </div>
 
@@ -29,15 +24,9 @@
 
 ## 💫 About Me:
 
-🚀 **Halo!** Saya Ajeng Azzahra Maharani, seorang **Back End Developer** yang berfondasi kuat pada **Java (Spring Boot)** dan **Java Enthusiast** sejati.
+**Halo!** Saya Ajeng Azzahra Maharani, seorang **Back End Developer** yang berfondasi kuat pada **Java (Spring Boot)** dan **Java Enthusiast** sejati. Saya fokus membangun **WEB** yang *efisien, aman, dan berdokumentasi baik* dengan menerapkan prinsip **Clean Code** dan metodologi **Agile**. Saat ini sedang mengeksplorasi **React JS** untuk memperluas kemampuan ke **full-stack** dan mengejar peluang karir di industri **FinTech**.
 
-💡 Saya fokus membangun **WEB** yang *efisien, aman, dan berdokumentasi baik* dengan menerapkan prinsip **Clean Code** dan metodologi **Agile**.
-
-🌱 Saat ini sedang mengeksplorasi **React JS** untuk memperluas kemampuan ke **full-stack** dan mengejar peluang karir di industri **FinTech**.
-
-🎯 **Goals:** Berkontribusi dalam membangun solusi teknologi finansial yang inovatif dan berdampak!
-
-<br/>
+**Goals:** Berkontribusi dalam membangun solusi teknologi finansial yang inovatif dan berdampak!
 
 ---
 
@@ -47,8 +36,6 @@
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajengazr) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajengazr) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ajengazr) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aj.zra) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajengazzahra04@gmail.com)
 
 </div>
@@ -108,11 +95,10 @@
 
 ---
 
-## 🎮 Catch the Pokemon - Contribution Game:
+## 🎮 Catch the Pacman - Contribution Game:
 
 <div align="center">
   
-  <!-- Pokemon akan muncul otomatis setelah GitHub Action dijalankan -->
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajengazr/ajengazr/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajengazr/ajengazr/output/pacman-contribution-graph.svg">
@@ -140,7 +126,7 @@
 
 ---
 
-## ✍️ Random Dev Quote:
+## ✍️ Quote:
 
 <div align="center">
   
