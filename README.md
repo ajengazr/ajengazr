@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- GIF Coding Animation -->
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
   
   <br/><br/>
   
@@ -112,11 +112,16 @@
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/ajengazr/ajengazr/output/github-contribution-grid-snake-dark.svg" alt="Pokemon catching contributions" />
+  <!-- Pokemon akan muncul otomatis setelah GitHub Action dijalankan -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajengazr/ajengazr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajengazr/ajengazr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajengazr/ajengazr/output/github-contribution-grid-snake.svg">
+  </picture>
   
   <br/>
   
-  <img src="https://raw.githubusercontent.com/ajengazr/ajengazr/output/ocean.gif" alt="Pokemon animation" />
+  <p><i>🎮 Pokemon animation akan muncul setelah GitHub Action dijalankan pertama kali!</i></p>
   
 </div>
 
@@ -164,7 +169,7 @@
   
   ### 💖 Thanks for visiting my profile!
   
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=ajengazr&icon=2&color=6)
+  [![](https://visitcount.itsvg.in/api?id=ajengazr&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
   ### Show some ❤️ by starring some of the repositories!
   
