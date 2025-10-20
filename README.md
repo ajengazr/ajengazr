@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Back+End+Developer+%26+Java+Enthusiast;Currently+learning+React+JS+and+Agile;Open+for+FinTech+Collaborations)](https://git.io/typing-svg)
+
+
+
 # 💫 About Me:
  Halo 👋, Saya Ajeng Azzahra Maharani!<br><br>Saya adalah Back End Developer yang berfondasi kuat pada Java (Spring Boot), sekaligus seorang Java Enthusiast. Saya fokus membangun **WEB** yang **efisien, aman, dan berdokumentasi baik**.<br><br>Saya bersemangat menerapkan Clean Code dan metodologi Agile, serta sedang mengeksplorasi **React JS** untuk memperluas cakupan ke *full-stack* dan mengejar peran di industri **FinTech**.
 
