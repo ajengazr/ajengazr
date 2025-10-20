@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- GIF Coding Animation -->
-
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
   
   <br/><br/>
   
@@ -19,7 +19,7 @@
   <!-- Typing Animation - Centered -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Back+End+Developer+%26+Java+Enthusiast;Currently+learning+React+JS+and+Agile;Open+for+FinTech+Collaborations;Building+Efficient+%26+Secure+Solutions;Let's+Create+Something+Amazing!" alt="Typing SVG" />
 
-    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320">
+    
   
   <br/><br/>
   
@@ -116,17 +116,14 @@
   
   <!-- Pokemon akan muncul otomatis setelah GitHub Action dijalankan -->
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajengazr/ajengazr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajengazr/ajengazr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ajengazr/ajengazr/output/pacman-contribution-graph.svg">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajengazr/ajengazr/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajengazr/ajengazr/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ajengazr/ajengazr/output/pacman-contribution-graph.svg">
+  </picture>
 
 ###
   
-  <br/>
-  
-  <p><i>🎮 Pokemon animation akan muncul setelah GitHub Action dijalankan pertama kali!</i></p>
-  
+  <br/>  
 </div>
 
 <br/>
