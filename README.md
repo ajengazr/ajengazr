@@ -1,31 +1,111 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Back+End+Developer+%26+Java+Enthusiast;Currently+learning+React+JS+and+Agile;Open+for+FinTech+Collaborations)](https://git.io/typing-svg)
+<div align="center">
+<!-- HEADER TYPING SVG -->
 
+</div>
 
+<div align="center">
+<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2F5ZmtwYXkwcnd6c2M4eWxtbXQzYXF1d2FzdXJvY2Y5czFhMndnNiZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/WwI764JzF2333N0uVn/giphy.gif" width="100"/>
 
-# 💫 About Me:
- Halo 👋, Saya Ajeng Azzahra Maharani!<br><br>Saya adalah Back End Developer yang berfondasi kuat pada Java (Spring Boot), sekaligus seorang Java Enthusiast. Saya fokus membangun **WEB** yang **efisien, aman, dan berdokumentasi baik**.<br><br>Saya bersemangat menerapkan Clean Code dan metodologi Agile, serta sedang mengeksplorasi **React JS** untuk memperluas cakupan ke *full-stack* dan mengejar peran di industri **FinTech**.
+🚀 About Me: The Core
 
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajengazr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajengazr) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ajengazr) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@aj.zra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajengazzahra04@gmail.com) 
+Halo 👋, saya Ajeng Azzahra Maharani! Saya adalah Back-End Developer dengan fondasi kuat di ekosistem Java, berfokus pada pembangunan aplikasi WEB menggunakan Spring Boot.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ajengazr&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ajengazr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajengazr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Tujuan utama saya adalah menciptakan solusi yang efisien, aman, dan maintainable, dengan mengutamakan prinsip Clean Code dan metodologi Agile.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ajengazr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Fokus Saat Ini
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Tujuan Karier
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ajengazr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🧑‍💻 Memperkuat arsitektur microservices dengan Java.
 
----
-[![](https://visitcount.itsvg.in/api?id=ajengazr&icon=0&color=0)](https://visitcount.itsvg.in)
+Mencari peran di industri FinTech (Keuangan & Teknologi).
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📚 Eksplorasi React JS untuk kemampuan Full-Stack.
+
+Berkontribusi pada proyek yang menantang dan berdampak besar.
+
+🛠️ Tech Stack & Tools
+
+<!-- Grup Badge menjadi 3 Baris agar lebih rapi -->
+
+Language & Frameworks
+
+<p align="center">
+<!-- JAVA / Spring / JS / C -->
+</p>
+
+Database & Styling
+
+<p align="center">
+<!-- MySQL / Tailwind / Bootstrap / Thymeleaf -->
+</p>
+
+Tools & Others
+
+<p align="center">
+<!-- Git / Postman / Swagger / Maven / Vite / Canva -->
+</p>
+
+📈 GitHub Activity
+
+<!-- Mengganti tema 'dark' menjadi 'github_dark' dan menghapus border pada beberapa stat agar lebih mulus -->
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<!-- Kanan: Stats Utama -->
+<a href="https://www.google.com/search?q=https://github.com/ajengazr">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dajengazr%26show_icons%3Dtrue%26theme%3Dgithub_dark%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Ajeng's GitHub Stats" />
+</a>
+</td>
+<td width="50%">
+<!-- Kiri: Top Languages -->
+<a href="https://www.google.com/search?q=https://github.com/ajengazr">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dajengazr%26layout%3Dcompact%26theme%3Dgithub_dark%26hide_border%3Dtrue" alt="Ajeng's Top Languages" />
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<!-- Streak Stats di tengah (Full-width) -->
+<a href="https://www.google.com/search?q=https://github.com/ajengazr">
+<img src="https://www.google.com/search?q=https://streak-stats.demolab.com%3Fuser%3Dajengazr%26theme%3Dgithub-dark%26hide_border%3Dtrue%26date_format%3Dj%2520M%255B%2520Y%255D" alt="GitHub Streak" />
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<!-- Trophies di tengah -->
+<a href="https://www.google.com/search?q=https://github.com/ajengazr">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3Dajengazr%26theme%3Ddarkhub%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D4" alt="GitHub Trophies" />
+</a>
+</td>
+</tr>
+</table>
+</div>
+
+💌 Connect & Collaboration
+
+<p align="center">
+<!-- EMAIL / LinkedIn / Instagram / Pinterest / TikTok -->
+<a href="mailto:ajengazzahra04@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" /></a>
+<a href="https://linkedin.com/in/ajengazr"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" /></a>
+<a href="https://instagram.com/ajengazr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://tiktok.com/@aj.zra"><img src="https://www.google.com/search?q=https://img.shields.io/badge/TikTok-000000%3Fstyle%3Dfor-the-badge%26logo%3DTikTok%26logoColor%3Dwhite" /></a>
+<a href="https://pinterest.com/ajengazr"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Pinterest-E60023%3Fstyle%3Dfor-the-badge%26logo%3DPinterest%26logoColor%3Dwhite" /></a>
+</p>
+
+<!-- Quote dan Visitor Count ditaruh di bawah sebagai footer -->
+
+<hr>
+
+<div align="center">
+<!-- Dev Quote -->
+<img src="https://www.google.com/search?q=https://quotes-github-readme.vercel.app/api%3Ftype%3Dhorizontal%26theme%3Ddark%26bg_color%3D00000000" />
+
+<!-- Visitor Count -->
+
+</div>
