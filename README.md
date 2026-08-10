@@ -7,7 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   </h1>
   
-  <h3>A Passionate Junior Fullstack Web Developer 💻</h3>
+  <h3>A Passionate Junior Fullstack Web Developer</h3>
   
   <br/>
   
@@ -79,22 +79,6 @@
 
 ---
 
-## 📊 GitHub Statistics:
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajengazr&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true)
-  
-  ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ajengazr&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajengazr&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-  
-</div>
-
-<br/>
-
----
-
 ## 🎮 Catch the Pacman - Contribution Game:
 
 <div align="center">
@@ -113,18 +97,6 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-
-<div align="center">
-  
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=ajengazr&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-  
-</div>
-
-<br/>
-
----
-
 ## ✍️ Quote:
 
 <div align="center">
@@ -137,29 +109,11 @@
 
 ---
 
-## 🔝 Top Contributed Repositories:
-
 <div align="center">
-  
-  ![Top Contributed](https://github-contributor-stats.vercel.app/api?username=ajengazr&limit=5&theme=radical&combine_all_yearly_contributions=true)
-  
-</div>
-
-<br/>
-
----
-
-<div align="center">
-  
-  ### 💖 Thanks for visiting my profile!
-  
-  [![](https://visitcount.itsvg.in/api?id=ajengazr&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
   
   ### Show some ❤️ by starring some of the repositories!
   
 </div>
-
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
